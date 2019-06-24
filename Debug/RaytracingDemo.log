@@ -1,0 +1,9 @@
+﻿  RaytracerDemo.cpp
+C:\Users\Chase\source\repos\RaytracingDemo\vec3.h(55,10): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Chase\source\repos\RaytracingDemo\vec3.h(134,10): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Chase\source\repos\RaytracingDemo\RaytracerDemo.cpp(13,10): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Chase\source\repos\RaytracingDemo\RaytracerDemo.cpp(21,36): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Chase\source\repos\RaytracingDemo\RaytracerDemo.cpp(33,10): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Chase\source\repos\RaytracingDemo\RaytracerDemo.cpp(34,14): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Chase\source\repos\RaytracingDemo\RaytracerDemo.cpp(34,65): warning C4305:  'argument': truncation from 'double' to 'float'
+  RaytracingDemo.vcxproj -> C:\Users\Chase\source\repos\RaytracingDemo\Debug\RaytracingDemo.exe
